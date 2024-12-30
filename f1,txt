@@ -1,4 +1,5 @@
-hiii
-hiii
-hiiii
+a = 10
+b = 20
+print('add', a+b)
+print('sub', a-b)
 
